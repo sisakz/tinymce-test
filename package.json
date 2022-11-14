@@ -1,0 +1,19 @@
+{
+  "name": "tinymce-and-react-live-example-forked",
+  "description": "TInyMce Live example with react and official package",
+  "version": "0.0.0",
+  "dependencies": {
+    "@tinymce/tinymce-react": "2.1.0",
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
